@@ -12,7 +12,8 @@
   "activationEvents": [
     "onLanguage:html",
     "onLanguage:handlebars",
-    "onLanguage:razor"
+    "onLanguage:razor",
+    "onLanguage:erb"
   ],
   "enableProposedApi": true,
   "main": "./client/out/htmlMain",
